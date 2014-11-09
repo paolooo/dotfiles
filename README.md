@@ -12,3 +12,8 @@ http://robots.thoughtbot.com/a-tmux-crash-course
 - Ctrl+b c - (c)reate a new window.
 - Ctrl+b n - move to the (n)ext window.
 - Ctrl+b p - move to the (p)revious window.
+
+- Ctrl+b h - move to the left pane
+- Ctrl+b j - move to the up pane
+- Ctrl+b k - move to the down pane
+- Ctrl+b l - move to the right pane
